@@ -5,3 +5,10 @@ There are 4 types of binding of function with object:
 4.Constructor function binding or new keyword binding.
 
 Exlicit Binding uses these utility methods call,apply,bind.
+
+Resources:
+https://www.w3schools.com/js/js_this.asp
+https://www.freecodecamp.org/news/what-is-this-in-javascript/
+https://www.freecodecamp.org/news/javascript-this-keyword-binding-rules/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this
+https://www.programiz.com/javascript/this
