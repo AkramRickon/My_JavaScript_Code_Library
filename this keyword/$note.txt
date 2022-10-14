@@ -1,0 +1,7 @@
+There are 4 types of binding of function with object:
+1.Implicit binding 
+2.Explicit binding
+3.Default binding
+4.Constructor function binding or new keyword binding.
+
+Exlicit Binding uses these utility methods call,apply,bind.
