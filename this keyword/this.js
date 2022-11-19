@@ -11,7 +11,7 @@ function root() {
 }
 root();
 
-//3.this inside nested function or scope 
+//3.this inside nested function or scope refers to window object
 
 function parent() {
     function child() {
